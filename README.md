@@ -40,6 +40,9 @@ A responsive image gallery with interactive navigation and image viewing feature
 ### 2. Calculator
 A basic calculator built using HTML, CSS, and JavaScript, supporting arithmetic operations and keyboard interactions.
 
+
+[View Project](https://miruthikashree.github.io/CodeAlpha_Calculator/)
+
 ## Project Structure
 
 ```text
